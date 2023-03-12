@@ -17,7 +17,7 @@ const Home = () => {
           </span></button>
         </div>
       </div>
-      <div className='flex flex-col justify-center hover:scale-110 duration-500'><img className='h-64 mx-auto  md:w-full rounded-full' src='Img.jpeg' alt='my picture '/></div>
+      <div className='flex flex-col justify-center hover:scale-110 duration-500'><img className='h-64 mx-auto  md:w-full rounded-full' src='Img.jpeg' alt='my'/></div>
     </div>
   </div>
    
